@@ -323,13 +323,3 @@ root.geometry("700x400+500+100");
 
 Application(root);
 root.mainloop();
-
-
-
-                
-             
-                
-                
-
-
-    
